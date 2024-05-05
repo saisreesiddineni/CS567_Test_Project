@@ -1,1 +1,2 @@
 # CS567_Test_Project
+A Project done as part of CS567 coursework at Northern Arizona University. The provided code is a simple Online Store project written in C++. The Online Store project is a sophisticated e-commerce platform designed to streamline shopping experiences for customers and facilitate efficient management for administrators. With robust functionalities for product management, customer interaction, and administrative tasks, the Online Store offers a scalable and user-friendly solution for businesses seeking to establish and grow their online presence.
